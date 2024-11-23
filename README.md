@@ -3,3 +3,33 @@
 
 ### The cloud is a global network of servers, each with a unique function, that are hooked together and meant to operate as a single ecosystem
 ### Cloud Computing means storing and accessing the data and programs on remote servers that are hosted on the internet instead of the computer’s hard drive or local server. Cloud computing is also referred to as Internet-based computing, it is a technology where the resource is provided as a service through the Internet to the user. The data that is stored can be files, images, documents, or any other storable document.
+# Cloud participants
+### Cloud computing involves various participants, each playing a crucial role in the ecosystem. Here are the key participants:
+
+## 1. Cloud Service Providers (CSPs):
+### Companies that offer cloud computing services.
+### Examples: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform.
+
+## 2. Cloud Consumers:
+### Organizations or individuals who use cloud services.
+### Examples: Businesses, educational institutions, government agencies, and individuals.
+
+## 3. End user:
+### Use the application deployed in the cloud.
+### Do not have any knowledge about the application backend.
+
+# How cloud works
+### The back-end is provided by the Cloud Provider - offers services such as storage, compute, database, traffic control mechanisms, and security postures.
+### The front-end consists of the client systems which can access the cloud resources from anywhere globally.
+
+# On-premise vs cloud
+### Scalability –
+### When it comes to scalability we pay more for on-premises set up and get lesser option too and once you scale up it is difficult to scale down and turn into heavy loss like infrastructure and maintenance cost while on the other hand Cloud allows you to pay only how much you use with much easier and faster for scaling upper and down.
+### Server Storage –
+### On-premises need a lot of space, power, and maintenance to store while on the other hand cloud solution are offered by the provider and maintain the server which saves your money and space.
+### Data Security –
+### On promises offers less security and for security, we need physical and traditional IT security measures whereas the cloud offers much better security, and I avoiding all other physical and other security options.
+### Data Loss or Recovery –
+### If data loss occurs recovery in on-premises is very least while cloud offers you the backup for easier and faster data recovery.
+### Maintenance –
+### On promises require an extra team for maintenance which increases the cost while the cloud is maintained by the provider.
