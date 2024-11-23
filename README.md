@@ -28,8 +28,8 @@
 ### Server Storage –
 ### On-premises need a lot of space, power, and maintenance to store while on the other hand cloud solution are offered by the provider and maintain the server which saves your money and space.
 ### Data Security –
-### On promises offers less security and for security, we need physical and traditional IT security measures whereas the cloud offers much better security, and I avoiding all other physical and other security options.
+### On-premises offers less security and for security, we need physical and traditional IT security measures whereas the cloud offers much better security, and I avoiding all other physical and other security options.
 ### Data Loss or Recovery –
 ### If data loss occurs recovery in on-premises is very least while cloud offers you the backup for easier and faster data recovery.
 ### Maintenance –
-### On promises require an extra team for maintenance which increases the cost while the cloud is maintained by the provider.
+### On-premises require an extra team for maintenance which increases the cost while the cloud is maintained by the provider.
