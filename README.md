@@ -174,7 +174,8 @@ sunbeam configure --accept-defaults --openrc demo-openrc
 ```bash
 sunbeam launch ubuntu --name test
 ```
-![Screenshot (4)](https://github.com/user-attachments/assets/4a24ee2e-d5e8-4d18-9b21-00af6155d545)
+![Screenshot (4)](https://github.com/user-attachments/assets/4dd6560c-5cb2-4afc-99ed-0a082801988d)
+
 
 ### 18.On the instance dashboard click on terminate running instance  
 # minikube_kubectl
