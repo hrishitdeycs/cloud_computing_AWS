@@ -273,7 +273,8 @@ kubectl proxy --address='0.0.0.0' --disable-filter=true &
 ```bash
 http://server_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/
 ```
-![Screenshot (2)](https://github.com/user-attachments/assets/e90f73f3-5dac-4231-84cd-258fbe1c2332)
+![Screenshot (2)](https://github.com/user-attachments/assets/181558e4-03f3-47a5-9fb9-ddf7aa0c51e0)
+
 
 ### 23.On the instance dashboard click on terminate running instance  
 # virtual_networking
@@ -282,25 +283,29 @@ http://server_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kuber
 ### VPC Name: MyVPC
 ### IPv4 CIDR Block: 10.0.0.0/16
 ### Click Create
-![Screenshot (6)](https://github.com/user-attachments/assets/dc1ec107-f43b-4f8c-8689-269dffd602a8)
+![Screenshot (6)](https://github.com/user-attachments/assets/7c035824-85e8-4c96-b126-211204510d77)
+
 
 ### Create subnets :-
 ### S1-Private Us-east-2a 10.0.1.0/24 Private
 ### S2-Private Us-east-2b 10.0.2.0/24 Private
 ### S3-Public Us-east-2a 10.0.3.0/24 Public
 ### S4-Public Us-east-2b 10.0.4.0/24 Public
-![Screenshot (7)](https://github.com/user-attachments/assets/ed2d850f-42f7-4074-afe5-f1ad0714cd52)
+![Screenshot (7)](https://github.com/user-attachments/assets/e8e7e2f5-48a1-4eef-9f03-e23c01f5bd48)
+
 
 ### Create Internet gateway 
 ### Now attach Internet Gateway to VPC
 ### Create Virtual Private Gateway 
 ###  Now attach Virtual Private Gateway  to VPC
 ### Create route tables and attach to subnets
-![Screenshot (8)](https://github.com/user-attachments/assets/793c6d62-971c-405e-9283-26f1071dd9db)
+![Screenshot (8)](https://github.com/user-attachments/assets/f124aadc-1d0d-41ea-9575-6cf8fa101872)
+
 
 ## ELB
 ###  Launch two EC2 instances in different AZs
-![Screenshot (9)](https://github.com/user-attachments/assets/3d985a1a-f79f-47d3-a087-28febb549da9)
+![Screenshot (9)](https://github.com/user-attachments/assets/2948f03f-ec98-464c-a5e7-0b430d096fb4)
+
 
 ### Select Application Elastic Load Balancer
 ### Create 2 instances of same type with select VPC which you created and using putty download apache-2 on both 
@@ -314,6 +319,7 @@ seq 999999999999999999999 > /dev/null &
 ```bash
 htop
 ```
-![Screenshot (5)](https://github.com/user-attachments/assets/ee6678f9-b7f4-4606-893b-a338e4717f83)
+![Screenshot (5)](https://github.com/user-attachments/assets/8839fe4e-ea63-4cd0-81a7-68538b49e53d)
+
 
 
